@@ -1,0 +1,60 @@
+{
+  "uid" : "990c76f86012f442",
+  "name" : "Verify title of Google.com",
+  "fullName" : "Verify titles of Different webpages.Verify title of Google.com",
+  "historyId" : "a561c079ae0a8cbc94eda92650b54dac",
+  "time" : {
+    "start" : 1607325317665,
+    "stop" : 1607325322337,
+    "duration" : 4672
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a764fc21fa07adbf",
+      "name" : "Screenshot",
+      "source" : "a764fc21fa07adbf.png",
+      "type" : "image/png",
+      "size" : 32138
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Verify titles of Different webpages"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify titles of Different webpages"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify title of Google.com"
+  }, {
+    "name" : "package",
+    "value" : "Verify titles of Different webpages"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "990c76f86012f442.json",
+  "parameterValues" : [ ]
+}

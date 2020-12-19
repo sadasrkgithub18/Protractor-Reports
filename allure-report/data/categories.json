@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Expected 'Gmail - Email from Google' to be 'Gmail'.",
+      "children" : [ {
+        "name" : "Verify title of Gmail.com",
+        "uid" : "b24edd55fb8ca942",
+        "parentUid" : "24e898d0ebb556468e5c0e4bb6bef82f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1607326669348,
+          "stop" : 1607326675030,
+          "duration" : 5682
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "24e898d0ebb556468e5c0e4bb6bef82f"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

@@ -1,0 +1,64 @@
+{
+  "uid" : "c08df1f7f43ea8f5",
+  "name" : "Verify title of Gmail.com",
+  "fullName" : "Verify titles of Different webpages.Verify title of Gmail.com",
+  "historyId" : "b31bd9c6ba0a87fa9941dfefd9e4435b",
+  "time" : {
+    "start" : 1607325322338,
+    "stop" : 1607325327880,
+    "duration" : 5542
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 'Gmail - Email from Google' to be 'Gmail'.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (D:\\ProtReports\\validatetitles.js:15:36)\n                    at C:\\Users\\K SADA SIVA REDDY\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\K SADA SIVA REDDY\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\K SADA SIVA REDDY\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\K SADA SIVA REDDY\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (C:\\Users\\K SADA SIVA REDDY\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\K SADA SIVA REDDY\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\K SADA SIVA REDDY\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25\n                    at C:\\Users\\K SADA SIVA REDDY\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected 'Gmail - Email from Google' to be 'Gmail'.",
+    "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (D:\\ProtReports\\validatetitles.js:15:36)\n                    at C:\\Users\\K SADA SIVA REDDY\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\K SADA SIVA REDDY\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\K SADA SIVA REDDY\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\K SADA SIVA REDDY\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (C:\\Users\\K SADA SIVA REDDY\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\K SADA SIVA REDDY\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\K SADA SIVA REDDY\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25\n                    at C:\\Users\\K SADA SIVA REDDY\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6ceb9500c26451bc",
+      "name" : "Screenshot",
+      "source" : "6ceb9500c26451bc.png",
+      "type" : "image/png",
+      "size" : 254661
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Verify titles of Different webpages"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify titles of Different webpages"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify title of Gmail.com"
+  }, {
+    "name" : "package",
+    "value" : "Verify titles of Different webpages"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c08df1f7f43ea8f5.json",
+  "parameterValues" : [ ]
+}

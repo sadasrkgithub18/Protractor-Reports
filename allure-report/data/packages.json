@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Verify titles of Different webpages",
+    "children" : [ {
+      "name" : "Verify title of Google.com",
+      "uid" : "c1daf2c5309bce51",
+      "parentUid" : "b508600ad42c19bbc2f7b8c792be264f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607326664705,
+        "stop" : 1607326669346,
+        "duration" : 4641
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Verify title of Gmail.com",
+      "uid" : "b24edd55fb8ca942",
+      "parentUid" : "b508600ad42c19bbc2f7b8c792be264f",
+      "status" : "failed",
+      "time" : {
+        "start" : 1607326669348,
+        "stop" : 1607326675030,
+        "duration" : 5682
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "b508600ad42c19bbc2f7b8c792be264f"
+  } ]
+}

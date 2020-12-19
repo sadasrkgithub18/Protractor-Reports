@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="1" tests="2" time="10.346">
+ <testsuite name="Verify titles of Different webpages" timestamp="2020-12-07T13:07:44" hostname="localhost" time="10.346" errors="0" tests="2" skipped="0" disabled="0" failures="1">
+  <testcase classname="Verify titles of Different webpages" name="Verify title of Google.com" time="4.641" />
+  <testcase classname="Verify titles of Different webpages" name="Verify title of Gmail.com" time="5.683">
+   <failure type="toBe" message="Expected &apos;Gmail - Email from Google&apos; to be &apos;Gmail&apos;."><![CDATA[Error: Failed expectation
+    at UserContext.<anonymous> (D:\ProtReports\validatetitles.js:15:36)
+    at C:\Users\K SADA SIVA REDDY\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+    at new ManagedPromise (C:\Users\K SADA SIVA REDDY\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+    at ControlFlow.promise (C:\Users\K SADA SIVA REDDY\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+    at schedulerExecute (C:\Users\K SADA SIVA REDDY\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+    at TaskQueue.execute_ (C:\Users\K SADA SIVA REDDY\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+    at TaskQueue.executeNext_ (C:\Users\K SADA SIVA REDDY\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+    at C:\Users\K SADA SIVA REDDY\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2974:25
+    at C:\Users\K SADA SIVA REDDY\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7]]>
+   </failure>
+  </testcase>
+ </testsuite>
+</testsuites>

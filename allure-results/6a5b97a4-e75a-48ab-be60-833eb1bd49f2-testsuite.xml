@@ -1,0 +1,40 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1607325466487' stop='1607325476425'>
+    <name>Verify titles of Different webpages</name>
+    <title>Verify titles of Different webpages</title>
+    <test-cases>
+        <test-case start='1607325466491' status='passed' stop='1607325471041'>
+            <name>Verify title of Google.com</name>
+            <title>Verify title of Google.com</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='fec2c521-1fd6-4424-ac8e-386007756129-attachment.png' type='image/png' size='32138'/>
+            </attachments>
+        </test-case>
+        <test-case start='1607325471042' status='failed' stop='1607325476420'>
+            <name>Verify title of Gmail.com</name>
+            <title>Verify title of Gmail.com</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='8440da34-83cc-44fd-8ce9-60a6d6f35648-attachment.png' type='image/png' size='254661'/>
+            </attachments>
+            <failure>
+                <message>Expected 'Gmail - Email from Google' to be 'Gmail'.</message>
+                <stack-trace>Error: Failed expectation
+                    at UserContext.&lt;anonymous> (D:\ProtReports\validatetitles.js:15:36)
+                    at C:\Users\K SADA SIVA REDDY\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+                    at new ManagedPromise (C:\Users\K SADA SIVA REDDY\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+                    at ControlFlow.promise (C:\Users\K SADA SIVA REDDY\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+                    at schedulerExecute (C:\Users\K SADA SIVA REDDY\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+                    at TaskQueue.execute_ (C:\Users\K SADA SIVA REDDY\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\K SADA SIVA REDDY\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\K SADA SIVA REDDY\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2974:25
+                    at C:\Users\K SADA SIVA REDDY\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

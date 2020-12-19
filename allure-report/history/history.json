@@ -1,0 +1,41 @@
+{
+  "a561c079ae0a8cbc94eda92650b54dac" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c1daf2c5309bce51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607326664705,
+        "stop" : 1607326669346,
+        "duration" : 4641
+      }
+    } ]
+  },
+  "b31bd9c6ba0a87fa9941dfefd9e4435b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b24edd55fb8ca942",
+      "status" : "failed",
+      "statusDetails" : "Expected 'Gmail - Email from Google' to be 'Gmail'.",
+      "time" : {
+        "start" : 1607326669348,
+        "stop" : 1607326675030,
+        "duration" : 5682
+      }
+    } ]
+  }
+}

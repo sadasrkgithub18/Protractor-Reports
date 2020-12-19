@@ -1,0 +1,21 @@
+[ {
+  "uid" : "c1daf2c5309bce51",
+  "name" : "Verify title of Google.com",
+  "time" : {
+    "start" : 1607326664705,
+    "stop" : 1607326669346,
+    "duration" : 4641
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b24edd55fb8ca942",
+  "name" : "Verify title of Gmail.com",
+  "time" : {
+    "start" : 1607326669348,
+    "stop" : 1607326675030,
+    "duration" : 5682
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]
